@@ -25,7 +25,7 @@ const questions = [
         correctAnswer: 3,
     },
     {
-        question: "5. Who is the Prime Minister of India?",
+        question: "6. Who is the Prime Minister of India?",
         options: ["(a) Georgia Meloni", "(b) Chhota Bheem", "(c) Narendra Modi", "(d) Rahul Gandhi"],
         correctAnswer: 2,
     },
